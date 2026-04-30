@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: red
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+let number = 10;
+if (number == 10) {
+    alert("O número é 10");
+}
+
+let nome = "Lucas Lima";
+if (nome == "Lucas Lima") {
+    alert("Lucas Lima");
+}
